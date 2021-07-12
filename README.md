@@ -10,7 +10,7 @@ As of right now most of my activity is in [Blender](https://www.blender.org/) an
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=holy-person&show_icons=true&theme=tokyonight"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holy-person&layout=compact"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holy-person&layout=compact"/>
   </a>
 </div>
 
