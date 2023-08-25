@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Holy</h1>
+<h1 align="center">👋 Hey, I'm Ivy</h1>
 <h3 align="center">Creator Of Random Stuff</h3>
 
 - Currently working on a project using [Godot](https://godotengine.org/).
