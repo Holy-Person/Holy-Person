@@ -4,7 +4,7 @@
 - Currently working on a project using [Godot](https://godotengine.org/).
 - Contact me via [Twitter](https://twitter.com/HolyDev1), [Discord](https://discord.com/users/330341087099224064) or [Steam](https://steamcommunity.com/id/Holy_Person/)
 
-## My Profile Stats:
+<!--## My Profile Stats:
 
 <table>
   <tr>
@@ -15,7 +15,7 @@
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holy-person&layout=compact&theme=github_dark"/>
     </td>
   </tr>
-</table>
+</table>-->
 
 ## Languages:
 <a href="https://www.w3schools.com/html/">
